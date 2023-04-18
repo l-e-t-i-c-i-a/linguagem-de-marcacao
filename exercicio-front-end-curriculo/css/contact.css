@@ -1,0 +1,25 @@
+/* TODO */
+
+.bloco-contato {
+    padding: 20px;
+    padding-top: 5px;
+}
+
+.icones{
+    display: flex;
+}
+.icones > span {
+ margin-right: 10px;
+}
+
+.info > p {
+    margin: 0;
+    padding: 0;
+}
+.marginTop{
+    margin-top: 17px;
+}
+
+.fa-brands {
+    font-size: 24px;
+}

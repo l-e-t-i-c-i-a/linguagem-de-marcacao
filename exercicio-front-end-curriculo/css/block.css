@@ -1,0 +1,41 @@
+/* TODO */
+
+.bloco {
+    background-color: white;
+    width: 90%;
+    padding: 20px;
+    margin: 5px auto;
+    box-shadow: 0 2px 5px 0 rgba(0, 0, 0, .16), 0 2px 10px 0 rgba(0, 0, 0, .12);
+    
+
+}
+
+.titulo {
+    color: rgba(0, 0, 0, .87);
+    font-size: 15px;
+    font-weight: 300;
+    margin: 0;
+    line-height: 15px;
+}
+
+.periodo {
+    color: rgba(0, 0, 0, .54);
+    font-size: 14px;
+    font-weight: 300;
+}
+
+.descricao {
+    color: rgba(0, 0, 0, .87);
+    font-size: 14px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    line-height: 0;
+
+}
+
+/* tag para pegar ícones do material icons
+pesquisa o ícone
+clica e copia o link
+
+font awesome é outra opção para o material items
+*/
