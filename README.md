@@ -6,3 +6,6 @@ Exercício Curriculum com Estilo
 
 Exercício Front-end do Curriculum
 - https://ifpb.github.io/exercises/problems/web-style-curriculum-vitae/
+
+Exercício Curriculum com Ícone e Web Fonte
+- https://ifpb.github.io/exercises/problems/web-style-curriculum-icon/
